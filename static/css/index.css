@@ -2,6 +2,38 @@ body {
   font-family: 'Noto Sans', sans-serif;
 }
 
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  width: 90vw;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.gallery-2col {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  width: 90vw;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.gallery-2col img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.gallery-2col video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 
 .footer .icon-link {
     font-size: 25px;
