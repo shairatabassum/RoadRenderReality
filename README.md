@@ -1,4 +1,4 @@
-# Bringing Roadside Rendering to Reality
+# Roadside Rendering to Reality
 This academic project page presents the experimental results from my master's thesis. It has showcased the findings and visual outcomes of the research, providing a clear and comprehensive understanding of the results.
 
 
